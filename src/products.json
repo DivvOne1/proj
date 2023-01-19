@@ -1,0 +1,21 @@
+[
+
+    {
+        "id":1,
+    "title":"Кот ",
+    "price":109.95,
+    "description":"Описание кота1 ",
+    "category":"Коты",
+    "image":"/1111.png"
+    
+},{"id":2,
+"title":"Кот ",
+"price":109.95,
+"description":"Описание кота2 ",
+"category":"Коты",
+"image":"/1111.png"
+
+
+
+}
+]
